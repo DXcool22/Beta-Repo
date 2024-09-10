@@ -1,0 +1,42 @@
+{
+    "name": "DXcool223 Free tvOS repo",
+    "subtitle": "A repo hosted by DXcool223",
+    "description": "For testing purposes only",
+    "iconURL": "https://raw.githubusercontent.com/DXcool22/Beta-Repo/main/Icon.png",
+    "headerURL": "https://raw.githubusercontent.com/DXcool22/Beta-Repo/main/Icon.png",
+    "website": "https://github.com/DXcool22/Beta-Repo",
+    "tintColor": "#2596BE",
+    "featuredApps": ["com.amazon.cosmiccrisp"],
+    "apps": [
+        {
+            "name": "Freevee",
+            "bundleIdentifier": "com.amazon.cosmiccrisp",
+            "bundleName": "ignition.app",
+            "developerName": "DXcool223",
+            "subtitle": "ADs Blocked.",
+            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/fe/61/aafe61a5-8b39-2269-8c3b-33d2433a572d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/350x350bb.jpg",
+            "headerURL": "https://m.media-amazon.com/images/I/A1ah7CQjoRL.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/72/d6/f4/72d6f4ef-fe7d-1129-3422-113918ff46bb/912a8caf-01b9-4876-96ab-34416bbf17c0_1242_x_2688_Frame_1.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/52/5e/19525e03-5b47-05fc-0e61-a0943e1250c7/0064da12-a8ab-4dbf-a0fc-3df30dda1924_1242_x_2688_Frame_2.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/79/a9/8879a951-eb48-c7a7-8bca-d7cae5171f32/1b8a3faa-639c-424b-a2bc-6c2276be930c_1242_x_2688_Frame_3.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/b6/9a/9ab69ad9-8b51-63ae-1288-441028748881/6117b6c0-4f27-4da8-8793-9c608b746184_1242_x_2688_Frame_4.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/95/f5/a795f569-c83d-1e3e-4396-3ed64946df5c/28733d02-5d54-43ec-86ef-25ae500091bf_1242_x_2688_Frame_5.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0f/c2/4e/0fc24e7c-39fa-3b5c-71dc-377a3b9779de/998fc45d-2256-4f2b-98a3-0acebb03f6a0_1242_x_2688_Frame_6.png/460x0w.webp"
+            ],
+            "versions": [
+                {
+                  "version": "1.6.6",
+                  "date": "2024",
+                  "localizedDescription": "ADs Blocked",
+                  "downloadURL": "https://github.com/DXcool22/Beta-Repo/raw/main/Freevee_AdBlock_tvOS15.0.tipa",
+                  "size": 20262288
+                }
+              ],
+          "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
