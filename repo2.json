@@ -1,0 +1,38 @@
+{
+    "name": "DXcool223 Free tvOS repo",
+    "subtitle": "A repo hosted by DXcool223",
+    "description": "For testing purposes only",
+    "iconURL": "https://raw.githubusercontent.com/DXcool22/Beta-Repo/main/Icon.png",
+    "headerURL": "https://raw.githubusercontent.com/DXcool22/Beta-Repo/main/Icon.png",
+    "website": "https://github.com/DXcool22/Beta-Repo",
+    "tintColor": "#2596BE",
+    "featuredApps": [com.amazon.cosmiccrisp],
+    "apps": [
+        {
+            "name": "Freevee",
+            "bundleIdentifier": "com.amazon.cosmiccrisp",
+            "developerName": "DXcool223",
+            "subtitle": "Freevee",
+            "localizedDescription": "Free Movies & TV Shows from amazon with No Ads",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/fe/61/aafe61a5-8b39-2269-8c3b-33d2433a572d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/350x350bb.jpg",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://m.media-amazon.com/images/I/A1ah7CQjoRL.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/72/d6/f4/72d6f4ef-fe7d-1129-3422-113918ff46bb/912a8caf-01b9-4876-96ab-34416bbf17c0_1242_x_2688_Frame_1.png/460x0w.webp"
+            ],
+            "versions": [
+                {
+                  "version": "1.6.6",
+                  "date": "2024-09-10",
+                  "localizedDescription": "Free Movies & TV Shows from amazon with No Ads",
+                  "downloadURL": "https://github.com/DXcool22/Beta-Repo/raw/main/Freevee_AdBlock_tvOS15.0.ipa",
+                  "size": 20262912,
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "18.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
